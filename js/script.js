@@ -27,6 +27,10 @@ const loop = setInterval(()=>{
         mario.style.marginLeft = '50px'
         
         clearInterval(loop);
+
+        setTimeout(()=>{
+            location.reload();
+        },500)
     }
 
 },10)  
