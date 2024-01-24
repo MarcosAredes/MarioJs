@@ -5,6 +5,20 @@
     overflow: hidden;
 }
 
+.Reload{
+    display: none;
+    width: 30%;
+    height: 45px;
+    margin: 250px auto ;
+    background: linear-gradient(#87CEEB,#E6F6FF);
+    color:black;
+    border:none;
+    outline: none;
+    border-radius: 25px;
+}
+
+
+
 .game-board{
 
     width: 100%;
