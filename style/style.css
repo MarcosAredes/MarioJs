@@ -11,10 +11,12 @@
     height: 45px;
     margin: 250px auto ;
     background: linear-gradient(#87CEEB,#E6F6FF);
-    color:black;
     border:none;
     outline: none;
     border-radius: 25px;
+    font-size: 25px;
+    color: black;
+    font-family:'Carter One';
 }
 
 
